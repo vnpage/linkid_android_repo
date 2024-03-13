@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.linkid.digitalfootprint-internal</groupId>
+  <artifactId>linkid-digitalfootprint</artifactId>
+  <versioning>
+    <latest>1.0.21_internal</latest>
+    <release>1.0.21_internal</release>
+    <versions>
+      <version>1.0.21_internal</version>
+    </versions>
+    <lastUpdated>20240313023803</lastUpdated>
+  </versioning>
+</metadata>
