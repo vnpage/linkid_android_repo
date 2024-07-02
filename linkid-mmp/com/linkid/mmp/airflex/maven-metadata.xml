@@ -3,8 +3,8 @@
   <groupId>com.linkid.mmp</groupId>
   <artifactId>airflex</artifactId>
   <versioning>
-    <latest>1.0.24-internal</latest>
-    <release>1.0.24-internal</release>
+    <latest>1.0.25-internal</latest>
+    <release>1.0.25-internal</release>
     <versions>
       <version>1.0.10</version>
       <version>1.0.11</version>
@@ -22,7 +22,9 @@
       <version>1.0.23</version>
       <version>1.0.24</version>
       <version>1.0.24-internal</version>
+      <version>1.0.25</version>
+      <version>1.0.25-internal</version>
     </versions>
-    <lastUpdated>20240702095426</lastUpdated>
+    <lastUpdated>20240702101027</lastUpdated>
   </versioning>
 </metadata>
