@@ -3,8 +3,8 @@
   <groupId>com.linkid.digitalfootprint</groupId>
   <artifactId>linkid-digitalfootprint</artifactId>
   <versioning>
-    <latest>1.0.34</latest>
-    <release>1.0.34</release>
+    <latest>1.0.35-internal</latest>
+    <release>1.0.35-internal</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -46,7 +46,9 @@
       <version>1.0.33</version>
       <version>1.0.34</version>
       <version>1.0.34-internal</version>
+      <version>1.0.35</version>
+      <version>1.0.35-internal</version>
     </versions>
-    <lastUpdated>20240702094208</lastUpdated>
+    <lastUpdated>20240705105731</lastUpdated>
   </versioning>
 </metadata>
