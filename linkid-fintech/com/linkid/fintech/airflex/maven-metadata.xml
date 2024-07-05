@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.linkid.fintech</groupId>
+  <artifactId>airflex</artifactId>
+  <versioning>
+    <latest>1.0.27-internal</latest>
+    <release>1.0.27-internal</release>
+    <versions>
+      <version>1.0.27</version>
+      <version>1.0.27-internal</version>
+    </versions>
+    <lastUpdated>20240705150010</lastUpdated>
+  </versioning>
+</metadata>

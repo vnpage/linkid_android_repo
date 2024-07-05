@@ -6,4 +6,11 @@
   <artifactId>linkid-digitalfootprint</artifactId>
   <version>1.0.35-internal</version>
   <packaging>aar</packaging>
+  <dependencies>
+      <dependency>
+          <groupId>fr.bmartel</groupId>
+          <artifactId>jspeedtest</artifactId>
+          <version>1.32.1</version>
+      </dependency>
+  <dependencies>
 </project>
